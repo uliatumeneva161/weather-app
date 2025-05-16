@@ -1,5 +1,5 @@
 # 🌤 Weather Forecast App
-
+![Demo Preview](prevWeather.mp4)
 <div align="center">
   <video controls width="800" autoplay muted loop poster="src/assets/preview/preview-poster.jpg">
     <source src="/preview/preview.mp4" type="video/mp4">
